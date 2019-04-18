@@ -1,0 +1,140 @@
+@font-face {
+    font-family: 'picons-charts';
+    src:  url('../fonts/picons-charts.eot?u53g43');
+    src:  url('../fonts/picons-charts.eot?u53g43#iefix') format('embedded-opentype'),
+        url('../fonts/picons-charts.ttf?u53g43') format('truetype'),
+        url('../fonts/picons-charts.woff?u53g43') format('woff'),
+        url('../fonts/picons-charts.svg?u53g43#picons-charts') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+[class^="picons-charts-"], [class*=" picons-charts-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'picons-charts' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    text-align: center;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+.picons-charts-analytics:before {
+    content: "\61";
+}
+
+.picons-charts-scatter:before {
+    content: "\62";
+}
+
+.picons-charts-bar:before {
+    content: "\63";
+}
+
+.picons-charts-barstacked:before {
+    content: "\64";
+}
+
+.picons-charts-barstacked100:before {
+    content: "\65";
+}
+
+.picons-charts-barh:before {
+    content: "\66";
+}
+
+.picons-charts-barhstacked:before {
+    content: "\67";
+}
+
+.picons-charts-barhstacked100:before {
+    content: "\68";
+}
+
+.picons-charts-line:before {
+    content: "\69";
+}
+
+.picons-charts-area:before {
+    content: "\6a";
+}
+
+.picons-charts-combined:before {
+    content: "\6b";
+}
+
+.picons-charts-pie:before {
+    content: "\6c";
+}
+
+.picons-charts-donut:before {
+    content: "\6d";
+}
+
+.picons-charts-funnel:before {
+    content: "\6e";
+}
+
+.picons-charts-pyramid:before {
+    content: "\6f";
+}
+
+.picons-charts-speedometer:before {
+    content: "\70";
+}
+
+.picons-charts-trafficlight:before {
+    content: "\71";
+}
+
+.picons-charts-lightbulb:before {
+    content: "\72";
+}
+
+.picons-charts-map:before {
+    content: "\73";
+}
+
+.picons-charts-mapheatmap:before {
+    content: "\74";
+}
+
+.picons-charts-table:before {
+    content: "\75";
+}
+
+.picons-charts-url:before {
+    content: "\76";
+}
+
+.picons-charts-drilltochart:before {
+    content: "\77";
+}
+
+.picons-charts-areastacked:before {
+    content: "\78";
+}
+
+.picons-charts-areastacked100:before {
+    content: "\79";
+}
+
+.picons-charts-stepline:before {
+    content: "\7a";
+}
+
+.picons-charts-spline:before {
+    content: "\31";
+}
+
+.picons-charts-bubble:before {
+    content: "\32";
+}
+

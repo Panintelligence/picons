@@ -1,0 +1,10 @@
+picons-build:
+  stage: build
+  before_script:
+    - echo "@testing http://nl.alpinelinux.org/alpine/edge/testing" >> /etc/apk/repositories
+    - apk update && apk add python3 fontforge@testing bash zip
+  script:
+    - /bin/bash build.sh
+  artifacts:
+    paths:
+      - picons
