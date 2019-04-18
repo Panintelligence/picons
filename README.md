@@ -7,7 +7,8 @@ If you want to experiment, you can just use the url from `githack.com` which ser
 <link href="https://raw.githack.com/Panintelligence/picons/master/dist/css/picons-charts.css" rel="stylesheet">
 ```
 In production, you should do the following:
-1.[Download the artifact from the releases page](https://github.com/Panintelligence/picons/releases)
+
+1. [Download the artifact from the releases page](https://github.com/Panintelligence/picons/releases)
 2. Copy `css/picons-charts.css` into your css folder
 3. Copy all the fonts inside `fonts` to your fonts folder
 

@@ -138,3 +138,7 @@
     content: "\32";
 }
 
+.picons-charts-treemap:before {
+    content: "\33";
+}
+
