@@ -7,9 +7,9 @@ If you want to experiment, you can just use the url from `githack.com` which ser
 <link href="https://raw.githack.com/Panintelligence/picons/master/dist/css/picons-charts.css" rel="stylesheet">
 ```
 In production, you should do the following:
-1. Clone or download this repository
-2. Copy `dist/css/picons-charts.css` into your css folder
-3. Copy all the fonts inside `dist/fonts` to your fonts folder
+1.[Download the artifact from the releases page](https://github.com/Panintelligence/picons/releases)
+2. Copy `css/picons-charts.css` into your css folder
+3. Copy all the fonts inside `fonts` to your fonts folder
 
 If you look inside `picons-charts.css`, it expects the fonts to be one level above and inside `fonts`:
 ```css
