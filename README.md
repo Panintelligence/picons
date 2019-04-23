@@ -1,6 +1,8 @@
 # ![PIcons Logo](changes/images/picons-logo-small.png) PIcons
 This project has the source SVG for the icon fonts used in [Panintelligence](https://panintelligence.com).
 
+[You can see all the icons here](https://panintelligence.github.io/picons.html).
+
 # Usage
 If you want to experiment, you can just use the url from `githack.com` which serves as an automatic CDN for github-hosted files:
 ```html

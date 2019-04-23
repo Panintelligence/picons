@@ -4,7 +4,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Added
-- Added Treemap
+- Added Treemap, Gantt, HTML and Drill to Category
 
 ## [1.1.0] - 2019-04-25
 ### Added
