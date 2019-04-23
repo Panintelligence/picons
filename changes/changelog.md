@@ -3,13 +3,15 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+
+## [1.2.0] - 2019-04-23
 ### Added
 - Added Treemap, Gantt, HTML, Drill to Category, Spider, Wind Rose and Iframe
 
 ### Changed
 - Changed size and positioning of the mini charts inside the drill-to-chart icon.
 
-## [1.1.0] - 2019-04-25
+## [1.1.0] - 2019-04-18
 ### Added
 - More chart icons
 

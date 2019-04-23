@@ -162,3 +162,7 @@
     content: "\38";
 }
 
+.picons-charts-iframe:before {
+    content: "\39";
+}
+
