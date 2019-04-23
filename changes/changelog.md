@@ -6,6 +6,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ### Added
 - Added Treemap, Gantt, HTML, Drill to Category and Spider
 
+### Changed
+- Changed size and positioning of the mini charts inside the drill-to-chart icon.
+
 ## [1.1.0] - 2019-04-25
 ### Added
 - More chart icons
