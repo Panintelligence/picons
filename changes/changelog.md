@@ -4,7 +4,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 ### Added
-- Added Treemap, Gantt, HTML, Drill to Category and Spider
+- Added Treemap, Gantt, HTML, Drill to Category, Spider, Wind Rose
 
 ### Changed
 - Changed size and positioning of the mini charts inside the drill-to-chart icon.
