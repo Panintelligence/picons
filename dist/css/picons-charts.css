@@ -142,3 +142,15 @@
     content: "\33";
 }
 
+.picons-charts-gantt:before {
+    content: "\34";
+}
+
+.picons-charts-html:before {
+    content: "\35";
+}
+
+.picons-charts-drilltocategory:before {
+    content: "\36";
+}
+
