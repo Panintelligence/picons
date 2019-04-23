@@ -8,6 +8,9 @@ If you want to experiment, you can just use the url from `githack.com` which ser
 ```html
 <link href="https://raw.githack.com/Panintelligence/picons/master/dist/css/picons-charts.css" rel="stylesheet">
 ```
+
+Please do not use the URL above in production as githack will throttle requests to that URL if there are too many.
+
 In production, you should do the following:
 
 1. [Download the artifact from the releases page](https://github.com/Panintelligence/picons/releases)
