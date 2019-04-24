@@ -30,3 +30,7 @@ for filename in *.svg; do
     python "${DIR}/tocss.py" "$filename" > "${DIR}/dist/css/${name}.css"
 done
 python "${DIR}/generate_example.py" "${DIR}/src/svgs"/* > "${DIR}/dist/example/${name}.html"
+
+echo "Creating zip file for github release."
+cd "${DIR}/dist"
+zip -r picons.zip *

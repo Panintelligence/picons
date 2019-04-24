@@ -3,6 +3,8 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
+### Added
+- Build script should now produce a release zip file for github
 
 ## [1.2.1] - 2019-04-24
 ### Added
