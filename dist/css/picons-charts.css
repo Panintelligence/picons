@@ -166,3 +166,15 @@
     content: "\39";
 }
 
+.picons-charts-radar:before {
+    content: "\30";
+}
+
+.picons-charts-explodedpie:before {
+    content: "\60";
+}
+
+.picons-charts-explodeddonut:before {
+    content: "\2d";
+}
+
