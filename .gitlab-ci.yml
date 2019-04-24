@@ -1,5 +1,8 @@
 picons-build:
   stage: build
+  tags:
+    - fontforge
+    - python
   before_script:
     - echo "@testing http://nl.alpinelinux.org/alpine/edge/testing" >> /etc/apk/repositories
     - apk update && apk add python3 fontforge@testing bash zip
