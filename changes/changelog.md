@@ -4,6 +4,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [1.2.1] - 2019-04-24
+### Added
+- Added a Radar, Exploded Pie and Exploded Donut chart icons
+
 ## [1.2.0] - 2019-04-23
 ### Added
 - Added Treemap, Gantt, HTML, Drill to Category, Spider, Wind Rose and Iframe
