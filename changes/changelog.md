@@ -7,6 +7,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [1.2.2] - 2019-05-23
 ### Added
 - Build script should now produce a release zip file for github
+- Added Area Spline, Area Step and Range Area icons
+
+
+## [1.2.2] - 2019-05-23
+### Added
+- Build script should now produce a release zip file for github
 - Added Area Spline icon
 
 ## [1.2.1] - 2019-04-24

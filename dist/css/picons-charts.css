@@ -178,7 +178,15 @@
     content: "\2d";
 }
 
-.picons-charts-areaspline:before {
+.picons-charts-splinearea:before {
     content: "\3d";
+}
+
+.picons-charts-steparea:before {
+    content: "\ac";
+}
+
+.picons-charts-arearange:before {
+    content: "\21";
 }
 
