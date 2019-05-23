@@ -178,3 +178,7 @@
     content: "\2d";
 }
 
+.picons-charts-areaspline:before {
+    content: "\3d";
+}
+
