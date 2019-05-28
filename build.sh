@@ -29,7 +29,7 @@ for filename in *.svg; do
     name=$(echo "$filename" | cut -f 1 -d '.')
     python "${DIR}/tocss.py" "$filename" > "${DIR}/dist/css/${name}.css"
 done
-python "${DIR}/generate_example.py" "${DIR}/src/svgs"/* > "${DIR}/dist/example/${name}.html"
+python "${DIR}/generate_example.py" "${DIR}/src/svgs"/* > "${DIR}/dist/example/picons.html"
 
 echo "Creating zip file for github release."
 cd "${DIR}/dist"

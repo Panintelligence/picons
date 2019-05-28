@@ -34,7 +34,7 @@ def generate_header(font_family):
 def generate_headers(font_families):
     header_content = ""
     for font_family in font_families:
-        header_content = generate_header(font_family["name"]) + "\n"
+        header_content += generate_header(font_family["name"]) + "\n"
     return "<head>\n" + header_content + "</head>"
 
 
@@ -49,6 +49,7 @@ def generate_glyph_box(font_family, glyph, indent):
 
 def generate_body(font_family, fontfile):
     html = "<div class=\"container\">\n" +\
+        "    <h1>"+font_family+"</h1>\n" +\
         "    <div>\n"
 
     for i in fontfile.selection.all():
@@ -57,14 +58,14 @@ def generate_body(font_family, fontfile):
                 generate_glyph_box(font_family, fontfile[i], "        ")
 
     return html + "    </div>\n" +\
-        "</div>\n"
+        "</div>"
 
 
 def generate_bodies(font_families):
-    body_content = ""
+    body_content = []
     for font_family in font_families:
-        body_content = generate_body(font_family["name"], font_family["file"]) + "\n"
-    return "<body>\n" + body_content + "</body>"
+        body_content.append(generate_body(font_family["name"], font_family["file"]))
+    return "<body>\n" + "\n\n<hr/>\n\n".join(body_content) + "</body>"
 
 
 def fonts(files):
