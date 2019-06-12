@@ -38,3 +38,7 @@
     content: "\33";
 }
 
+.picons-data-folder:before {
+    content: "\34";
+}
+

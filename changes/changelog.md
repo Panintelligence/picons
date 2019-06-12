@@ -4,6 +4,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [1.3.2] - 2019-06-12
+### Added
+- Folder icon.
+- Missing glyph icon.
+
+### Changed
+- Dimension icon is now thicker.
+
+### Fixed
+- Previous change in the predictor icon had not been built into the font files. This is now fixed.
+
 ## [1.3.1] - 2019-06-12
 ### Changed
 - Predictor icon now has a thicker border on the crystal ball.
