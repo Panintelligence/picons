@@ -32,6 +32,7 @@ def generate_class_globals(font_family):
         "    /* Better Font Rendering =========== */\n" + \
         "    -webkit-font-smoothing: antialiased;\n" + \
         "    -moz-osx-font-smoothing: grayscale;\n" + \
+        "    vertical-align: -0.15em;\n" + \
         "}\n"
 
 # See https://fontforge.github.io/python.html#Glyph
