@@ -4,6 +4,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [1.3.4] - 2019-07-04
+### Added
+- Rotated Table to chart icons
+- Yin Yang icon to data.
+
 ## [1.3.4] - 2019-06-17
 ### Changed
 - Added css property to move the icons a little bit down.
