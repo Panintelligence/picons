@@ -4,6 +4,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ## [Unreleased]
 
+## [1.3.6] - 2019-07-25
+### Added
+- Editable Data Table chart icon
+- Card chart icon
+
 ## [1.3.5] - 2019-07-04
 ### Added
 - Rotated Table to chart icons

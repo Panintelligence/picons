@@ -195,3 +195,11 @@
     content: "\22";
 }
 
+.picons-charts-tableeditable:before {
+    content: "\a3";
+}
+
+.picons-charts-card:before {
+    content: "\24";
+}
+
