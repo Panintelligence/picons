@@ -203,3 +203,15 @@
     content: "\24";
 }
 
+.picons-charts-barvariwide:before {
+    content: "\25";
+}
+
+.picons-charts-barvariwidehorizontal:before {
+    content: "\5e";
+}
+
+.picons-charts-wordcloud:before {
+    content: "\26";
+}
+
