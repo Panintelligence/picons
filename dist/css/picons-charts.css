@@ -215,3 +215,11 @@
     content: "\26";
 }
 
+.picons-charts-donutvarirad:before {
+    content: "\28";
+}
+
+.picons-charts-pievarirad:before {
+    content: "\2a";
+}
+
