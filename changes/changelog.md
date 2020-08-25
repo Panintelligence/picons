@@ -2,7 +2,21 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
-## [Unreleased]
+## [1.3.9] - 2020-08-25
+### Added
+- Venn-like diagrams:
+  - empty
+  - full
+  - intersection
+  - outersection
+  - left
+  - left-only
+  - right
+  - right-only
+
+### Changed
+- Adjusted perspective on the `dimension`.
+
 
 ## [1.3.8] - 2020-05-26
 ### Added

@@ -47,3 +47,35 @@
     content: "\35";
 }
 
+.picons-data-venn-empty:before {
+    content: "\36";
+}
+
+.picons-data-venn-full:before {
+    content: "\37";
+}
+
+.picons-data-venn-intersection:before {
+    content: "\39";
+}
+
+.picons-data-venn-left:before {
+    content: "\30";
+}
+
+.picons-data-venn-left-only:before {
+    content: "\2d";
+}
+
+.picons-data-venn-right:before {
+    content: "\3d";
+}
+
+.picons-data-venn-right-only:before {
+    content: "\60";
+}
+
+.picons-data-venn-outersection:before {
+    content: "\38";
+}
+
