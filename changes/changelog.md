@@ -2,6 +2,14 @@
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
+
+## [1.3.11] - 2020-12-15
+### Added
+- Horizontal Waterfall chart
+
+### Changed
+- Adjusted how Waterfall looks like
+
 ## [1.3.10] - 2020-12-15
 ### Added
 - Waterfall chart

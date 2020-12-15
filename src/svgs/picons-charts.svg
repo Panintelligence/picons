@@ -29,9 +29,9 @@
      showgrid="true"
      inkscape:current-layer="g1414"
      inkscape:document-units="px"
-     inkscape:cy="426.08109"
-     inkscape:cx="564.12619"
-     inkscape:zoom="0.35355339"
+     inkscape:cy="646.61282"
+     inkscape:cx="575.98352"
+     inkscape:zoom="0.5"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -455,7 +455,12 @@
          glyph-name="waterfall"
          id="glyph1410"
          unicode=")"
-         d="M 160,1024 V 904 h 180 v 120 z M 0,1024 V 24 H 1000 V 144 H 120 v 880 z M 600,524 V 424 H 780 V 524 Z M 380,904 V 524 H 560 V 904 Z M 820,424 V 184 h 180 v 240 z" />
+         d="M 160,744 V 184 H 340 V 744 Z M 0,1024 V 24 H 1000 V 144 H 120 v 880 z M 600,744 V 424 H 780 V 744 Z M 380,904 V 744 H 560 V 904 Z M 820,424 V 184 h 180 v 240 z" />
+      <glyph
+         glyph-name="waterfallhorizontal"
+         id="glyph1426"
+         unicode="_"
+         d="M 0,1024 V 24 H 1000 V 144 H 120 v 880 z m 160,0 V 844 h 560 v 180 z M 720,804 V 624 H 880 V 804 Z M 400,584 V 404 H 720 V 584 Z M 160,364 V 184 h 240 v 180 z" />
     </font>
     <filter
        id="filter878"
@@ -547,6 +552,16 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="g1418"
+     inkscape:label="Waterfall (horizontal)"
+     style="display:none">
+    <path
+       id="path1416"
+       style="display:inline;fill:#666666;fill-opacity:1;stroke:none;stroke-width:53.7781;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0,0 V 1000 H 1000 V 880 H 120 V 0 Z M 160,0 V 180 H 720 V 0 Z M 720,220 V 400 H 880 V 220 Z M 400,440 V 620 H 720 V 440 Z M 160,660 V 840 H 400 V 660 Z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="g1414"
      inkscape:label="Waterfall"
      style="display:inline">
@@ -554,7 +569,7 @@
        sodipodi:nodetypes="ccccccccccccccccccccccccccc"
        inkscape:connector-curvature="0"
        id="path1412"
-       d="M 160,0 V 120 H 340 V 0 Z M 0,0 V 1000 H 1000 V 880 H 120 V 0 Z M 600,500 V 600 H 780 V 500 Z M 380,120 V 500 H 560 V 120 Z m 440,480 v 240 h 180 V 600 Z"
+       d="M 160,280 V 840 H 340 V 280 Z M 0,0 V 1000 H 1000 V 880 H 120 V 0 Z M 600,280 V 600 H 780 V 280 Z M 380,120 V 280 H 560 V 120 Z m 440,480 v 240 h 180 V 600 Z"
        style="display:inline;fill:#666666;fill-opacity:1;stroke:none;stroke-width:53.7781;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
