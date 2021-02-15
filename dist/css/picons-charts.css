@@ -231,3 +231,11 @@
     content: "\5f";
 }
 
+.picons-charts-mergedchart:before {
+    content: "\2b";
+}
+
+.picons-charts-network:before {
+    content: "\51";
+}
+
