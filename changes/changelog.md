@@ -3,6 +3,11 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
+## [1.3.12] - 2021-02-15
+### Added
+- Merged chart chart
+- Network graph chart
+
 ## [1.3.11] - 2020-12-15
 ### Added
 - Horizontal Waterfall chart
@@ -27,7 +32,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
   - right-only
 
 ### Changed
-- Adjusted perspective on the `dimension`.
+- Adjusted perspective on the `dime744299619nsion`.
 
 
 ## [1.3.8] - 2020-05-26
