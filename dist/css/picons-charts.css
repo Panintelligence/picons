@@ -239,3 +239,15 @@
     content: "\51";
 }
 
+.picons-charts-sankeyhorizontal:before {
+    content: "\57";
+}
+
+.picons-charts-sankeyvertical:before {
+    content: "\45";
+}
+
+.picons-charts-dependencywheel:before {
+    content: "\52";
+}
+

@@ -3,6 +3,11 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
+## [1.3.13] - 2021-04-28
+### Added
+- Horizontal & Vertical Sankey charts
+- Chord (a.k.a Dependency Wheel) chart
+
 ## [1.3.12] - 2021-02-15
 ### Added
 - Merged chart chart
