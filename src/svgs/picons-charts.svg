@@ -25,13 +25,13 @@
      inkscape:window-x="0"
      inkscape:window-height="1025"
      inkscape:window-width="1920"
-     showguides="true"
-     showgrid="true"
-     inkscape:current-layer="layer1"
+     showguides="false"
+     showgrid="false"
+     inkscape:current-layer="layer27"
      inkscape:document-units="px"
-     inkscape:cy="747.11034"
-     inkscape:cx="494.46582"
-     inkscape:zoom="0.37257367"
+     inkscape:cy="225.36436"
+     inkscape:cx="316.09209"
+     inkscape:zoom="0.32"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -47,12 +47,16 @@
        inkscape:locked="false"
        id="guide1091"
        orientation="0,1"
-       position="560,500" />
+       position="500,500"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        id="guide1086"
        inkscape:locked="false"
-       orientation="1,0"
-       position="500,640" />
+       orientation="-1,0"
+       position="500,500"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -560,6 +564,20 @@
          stdDeviation="2.7999999"
          inkscape:collect="always" />
     </filter>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2824"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <metadata
      id="metadata7">
@@ -584,6 +602,96 @@
        id="rect3220"
        d="M 180,180 V 820 H 820 V 180 Z m 60,60 H 760 V 760 H 240 Z"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:46.5796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer27"
+     inkscape:label="Custom Map"
+     style="display:inline">
+    <polygon
+       id="Left_Pec_Mayoris"
+       title=""
+       points="190,130 169,116 144,116 142,149 159,156 183,150 "
+       transform="matrix(5.2716449,0,0,5.352514,-159.76182,-64.262189)"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="Left_Rectus_Abdominis"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.312;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 588.81239,760.02445 -5.27142,133.81281 2.48136,105.79441 h 96.71221 L 678.43028,851.0184 657.34269,786.78818 Z" />
+    <path
+       id="Left_Oblique"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.312;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 799.67663,760.02445 -110.70353,32.11608 15.81424,58.87787 3.1144,148.61327 h 74.63597 l 6.59611,-73.67833 z" />
+    <polygon
+       id="Left_Neck"
+       title=""
+       points="172,100 160,89 153,72 141,96 141,110 168,112 190,124 187,104 "
+       transform="matrix(5.2716449,0,0,5.352514,-159.76182,-64.262189)"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <polygon
+       id="Left_Deltoids_Front"
+       title=""
+       points="211,115 203,107 191,103 194,119 192,130 209,144 212,131 "
+       transform="matrix(5.2716449,0,0,5.352514,-159.76182,-64.262189)"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <polygon
+       id="Head_Front"
+       title=""
+       points="120,62 130,71 139,76 151,69 158,61 162,39 157,20 139,14 121,21 115,43 "
+       transform="matrix(5.2716449,0,0,5.352514,-159.76182,-64.262189)"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.75239;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <polygon
+       id="Left_Biceps_Brachii_Short_Head"
+       title=""
+       points="203,192 207,186 202,179 187,150 187,165 "
+       transform="matrix(5.2716449,0,0,5.352514,-159.76182,-64.262189)"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <polygon
+       id="Left_Biceps_Brachii_Long_Head"
+       title=""
+       points="220,183 210,150 192,135 189,148 204,176 217,190 "
+       transform="matrix(5.2716449,0,0,5.352514,-159.76182,-64.262189)"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.00001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="polygon1710"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.312;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 561.18926,759.10524 -68.53226,26.76178 -21.08565,64.23023 -4.33357,149.53442 h 96.72004 l 2.50284,-106.71361 z" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 320,730 120,20 110,-40 10,-180 -140,-70 -90,80 h -80 v 50 l 90,40 z"
+       id="path2422"
+       sodipodi:nodetypes="cccccccccc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 210,1000 330,960 430,780 120,730 100,790 h 80 v 180 z"
+       id="path2426"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 100,810 h 60 v 150 h -50 l -20,-50 20,-60 z"
+       id="path2428"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 450,430 80,50 10,-20 -10,-20 -10,-10 -20,-10 z"
+       id="path2430" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 220,470 180,-40 -30,-20 40,-30 -20,-20 -40,-10 -40,-120 -40,-20 50,-60 -20,-20 h -40 l 20,-30 h -70 v 50 l -10,50 40,30 -20,40 20,10 h 30 l 10,60 h -30 v 40 l -30,20 v 20 l 80,-10 v 10 z"
+       id="path2434" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 70,410 30,20 70,-40 10,-40 -20,-30 -20,10 -30,-30 v 10 H 70 v 40 l 30,10 -10,10 10,10 z"
+       id="path2438" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 120,270 20,20 20,-10 20,20 10,-20 -10,-20 -10,-10 h -10 l -40,20"
+       id="path2440" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 520,350 -10,10 h -20 l -10,20 50,20 30,-10 v -20 z"
+       id="path2444"
+       sodipodi:nodetypes="cccccccc" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1145,7 +1253,7 @@
        inkscape:connector-curvature="0"
        id="path4644"
        d="M 500,140 C 329.22691,139.99955 180.24002,224.61519 90,360 l 180,100 c 55.85855,-70.47638 135.13445,-109.99974 230,-110 168.21031,4.9e-4 309.99954,145.65267 310,320 -0.0542,48.52217 -10.24318,87.84943 -30,130 h 200 c 12.6407,-45.81632 19.916,-91.85721 20,-140 7e-4,-286.30958 -223.76851,-520.00074 -500,-520 z M 40,440 490,690 c 33.92454,10.66654 56.07545,-25.55826 30,-50 L 70,390 C 30,370 10,420 40,440 Z M 30,470 C 8.488427,527.8442 -1.558e-4,594.29616 0,660 c 0.00779,48.1312 7.437216,94.17212 20,140 h 200 c -19.70224,-42.16489 -29.99691,-91.4934 -30,-140 8e-5,-32.27059 10.11188,-60.9591 18.79259,-90.2809 z m 410,90 90,50 c 80,50 20,150 -50,110 L 380,660 c 0,120 80,140 120,140 80,0 130,-60 130,-140 C 630,560 530,510 440,560 Z"
-       style="opacity:0.93999999;fill:#777777;fill-opacity:1;stroke:none;stroke-width:89.92389679;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:0.94;fill:#777777;fill-opacity:1;stroke:none;stroke-width:89.9239;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
      style="display:none"

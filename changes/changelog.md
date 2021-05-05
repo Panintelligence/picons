@@ -3,6 +3,10 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
+## [1.3.14] - 2021-05-05
+### Added
+- Custom map chart
+
 ## [1.3.13] - 2021-04-28
 ### Added
 - Horizontal & Vertical Sankey charts
