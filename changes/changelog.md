@@ -3,11 +3,11 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
-## [1.3.18] - 2021-05-17
+## [1.3.17] - 2021-05-17
 ### Added
 - Column range (horizontal) chart
 
-## [1.3.17] - 2021-05-17
+## [1.3.16] - 2021-05-17
 ### Added
 - Column range chart
 
