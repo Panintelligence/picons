@@ -26,12 +26,12 @@
      inkscape:window-height="1025"
      inkscape:window-width="1920"
      showguides="false"
-     showgrid="false"
-     inkscape:current-layer="g1134"
+     showgrid="true"
+     inkscape:current-layer="g1154"
      inkscape:document-units="px"
-     inkscape:cy="625.40365"
-     inkscape:cx="727.56598"
-     inkscape:zoom="0.16"
+     inkscape:cy="552.16904"
+     inkscape:cx="613.10748"
+     inkscape:zoom="0.32"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -515,6 +515,11 @@
          id="glyph1165"
          unicode="U"
          d="M 0,1024 V 24 H 1000 V 144 H 120 v 880 z M 200,984 V 824 H 840 V 984 Z M 280,784 V 624 H 760 V 784 Z M 520,584 V 424 H 920 V 584 Z M 480,384 V 224 h 320 v 160 z" />
+      <glyph
+         glyph-name="columnrangehorizontal"
+         id="glyph1162"
+         unicode="I"
+         d="M 1000,24 H 0 V 1024 H 120 V 144 h 880 z M 960,224 H 800 V 864 H 960 Z M 760,304 H 600 V 784 H 760 Z M 560,544 H 400 V 944 H 560 Z M 360,504 H 200 v 320 h 160 z" />
     </font>
     <filter
        id="filter878"
@@ -620,9 +625,19 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="g1154"
+     inkscape:label="Column Range (horizontal)"
+     style="display:inline">
+    <path
+       id="path1152"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:53.7781;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1000,1000 H 0 V 0 h 120 v 880 h 880 z M 960,800 H 800 V 160 H 960 Z M 760,720 H 600 V 240 H 760 Z M 560,480 H 400 V 80 H 560 Z M 360,520 H 200 V 200 h 160 z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="g1134"
      inkscape:label="Column Range"
-     style="display:inline">
+     style="display:none">
     <path
        id="path1132"
        style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:53.7781;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
