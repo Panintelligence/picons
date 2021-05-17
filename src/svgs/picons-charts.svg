@@ -27,11 +27,11 @@
      inkscape:window-width="1920"
      showguides="false"
      showgrid="false"
-     inkscape:current-layer="g1141"
+     inkscape:current-layer="g1134"
      inkscape:document-units="px"
-     inkscape:cy="147.71883"
-     inkscape:cx="47.300673"
-     inkscape:zoom="0.22627417"
+     inkscape:cy="625.40365"
+     inkscape:cx="727.56598"
+     inkscape:zoom="0.16"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -510,6 +510,11 @@
          id="glyph1137"
          unicode="Y"
          d="M 50,1024 C 22.3,1024 0,1001.7 0,974 V 94.71094 l 60,60 V 189 c 0,19.39 15.61,35 35,35 h 34.28906 l 60,60 H 95 c -19.39,0 -35,15.61 -35,35 v 70 c 0,19.39 15.61,35 35,35 h 170 c 17.58297,0 32.05637,-12.83659 34.60156,-29.6875 l 95.71289,95.71289 C 386.05897,496.31077 380,506.92108 380,519 v 70 c 0,19.39 15.61,35 35,35 h 114.28906 l 60.30664,60.30664 C 588.09114,684.11081 586.55963,684 585,684 H 415 c -19.39,0 -35,15.61 -35,35 v 70 c 0,19.39 15.61,35 35,35 h 170 c 19.39,0 35,-15.61 35,-35 v -70 c 0,-1.55963 -0.11081,-3.09114 -0.30664,-4.5957 l 80.875,80.875 c 2.57774,14.33335 13.81899,25.5746 28.15234,28.15234 L 929.28906,1024 Z M 926.86523,982.68359 799.58594,855.4043 l 31.82031,-31.82032 127.2793,127.2793 z M 1000,953.28906 870.71094,824 H 905 c 19.39,0 35,-15.61 35,-35 v -70 c 0,-19.39 -15.61,-35 -35,-35 H 735 c -1.37161,0 -2.72119,0.0863 -4.05078,0.23828 L 620,573.28906 V 519 c 0,-19.39 -15.61,-35 -35,-35 h -54.28906 l -60,-60 H 585 c 19.39,0 35,-15.61 35,-35 v -70 c 0,-19.39 -15.61,-35 -35,-35 H 415 c -19.39,0 -35,15.61 -35,35 v 14.28906 L 270.3125,223.60156 C 287.16341,221.05637 300,206.58297 300,189 V 119 C 300,99.61 284.39,84 265,84 H 130.71094 L 70.710938,24 H 950 c 27.7,0 50,22.3 50,50 z M 95,824 h 170 c 19.39,0 35,-15.61 35,-35 v -70 c 0,-19.39 -15.61,-35 -35,-35 H 95 c -19.39,0 -35,15.61 -35,35 v 70 c 0,19.39 15.61,35 35,35 z M 672.30664,728.125 545.02734,600.8457 576.84766,569.02734 704.12695,696.30469 Z M 95,624 h 170 c 19.39,0 35,-15.61 35,-35 v -70 c 0,-19.39 -15.61,-35 -35,-35 H 95 c -19.39,0 -35,15.61 -35,35 v 70 c 0,19.39 15.61,35 35,35 z m 640,0 h 170 c 19.39,0 35,-15.61 35,-35 v -70 c 0,-19.39 -15.61,-35 -35,-35 H 735 c -19.39,0 -35,15.61 -35,35 v 70 c 0,19.39 15.61,35 35,35 z m -317.25195,-150.43359 -127.2793,-127.2793 31.82031,-31.81836 127.2793,127.2793 z M 735,424 h 170 c 19.39,0 35,-15.61 35,-35 v -70 c 0,-19.39 -15.61,-35 -35,-35 H 735 c -19.39,0 -35,15.61 -35,35 v 70 c 0,19.39 15.61,35 35,35 z M 415,224 h 170 c 19.39,0 35,-15.61 35,-35 V 119 C 620,99.61 604.39,84 585,84 H 415 c -19.39,0 -35,15.61 -35,35 v 70 c 0,19.39 15.61,35 35,35 z m 320,0 h 170 c 19.39,0 35,-15.61 35,-35 V 119 C 940,99.61 924.39,84 905,84 H 735 c -19.39,0 -35,15.61 -35,35 v 70 c 0,19.39 15.61,35 35,35 z M 163.18945,219.00781 35.910156,91.72852 67.730469,59.91016 195.00977,187.18945 Z" />
+      <glyph
+         glyph-name="columnrange"
+         id="glyph1165"
+         unicode="U"
+         d="M 0,1024 V 24 H 1000 V 144 H 120 v 880 z M 200,984 V 824 H 840 V 984 Z M 280,784 V 624 H 760 V 784 Z M 520,584 V 424 H 920 V 584 Z M 480,384 V 224 h 320 v 160 z" />
     </font>
     <filter
        id="filter878"
@@ -597,7 +602,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -614,7 +619,17 @@
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:46.5796;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
   </g>
   <g
-     style="display:inline"
+     inkscape:groupmode="layer"
+     id="g1134"
+     inkscape:label="Column Range"
+     style="display:inline">
+    <path
+       id="path1132"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:53.7781;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0,0 V 1000 H 1000 V 880 H 120 V 0 Z M 200,40 V 200 H 840 V 40 Z m 80,200 V 400 H 760 V 240 Z M 520,440 V 600 H 920 V 440 Z M 480,640 V 800 H 800 V 640 Z" />
+  </g>
+  <g
+     style="display:none"
      inkscape:label="Merged Table"
      id="g1141"
      inkscape:groupmode="layer">

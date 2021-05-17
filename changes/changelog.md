@@ -3,9 +3,13 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
+## [1.3.16] - 2021-05-17
+### Added
+- Column range
+
 ## [1.3.15] - 2021-05-11
 ### Added
-- Merged chart
+- Merged table chart
 
 ## [1.3.14] - 2021-05-05
 ### Added
