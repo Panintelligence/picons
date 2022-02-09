@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20200314 at Mon May 17 15:00:14 2021
+Created by FontForge 20201107 at Wed Feb  9 12:26:42 2022
  By Tiago Correia
 </metadata>
 <defs>
@@ -411,5 +411,8 @@ c19.39 0 35 -15.61 35 -35v-70c0 -19.39 -15.61 -35 -35 -35h-170c-19.39 0 -35 15.6
 d="M0 1024v-1000h1000v120h-880v880h-120zM200 984v-160h640v160h-640zM280 784v-160h480v160h-480zM520 584v-160h400v160h-400zM480 384v-160h320v160h-320z" />
     <glyph glyph-name="columnrangehorizontal" unicode="I" 
 d="M1000 24h-1000v1000h120v-880h880v-120zM960 224h-160v640h160v-640zM760 304h-160v480h160v-480zM560 544h-160v400h160v-400zM360 504h-160v320h160v-320z" />
+    <glyph glyph-name="powerring" unicode="O" 
+d="M500 1024c280 0 500.121 -239.985 500 -500c0.12075 -279.985 -230 -500 -500 -500c-157.624 0 -290.943 73.2846 -380 180l230 160c39.2209 -36.2988 92.2401 -60.0004 150 -60c121.652 -0.0008 220.001 98.2661 220 220c0.00079 121.734 -98.3484 220.001 -220 220v280
+z" />
   </font>
 </defs></svg>

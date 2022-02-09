@@ -3,6 +3,10 @@
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 
+## [1.3.18] - 2022-02-09
+### Added
+- Power ring
+
 ## [1.3.17] - 2021-05-17
 ### Added
 - Column range (horizontal) chart
