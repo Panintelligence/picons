@@ -44,6 +44,8 @@ You'll want the SVG Font Editor so you can bring it up via Text -> SVG Font Edit
 
 ![Text -> SVG Font Editor menu](./text_svg-font-editor.png)
 
+You can find out more [here](https://inkscape-manuals.readthedocs.io/en/latest/creating-custom-fonts.html).
+
 ## Generating fonts
 ### Requirements
 
