@@ -38,8 +38,14 @@ Feel free to change these paths to whatever suits you.
 ## Editing the fonts
 Use any vector-based editor. I like to use [inkscape](https://inkscape.org/), but you can edit the fonts using [fontforge](https://fontforge.github.io/) too.
 
+### Configuring Inkscape
+
+You'll want the SVG Font Editor so you can bring it up via Text -> SVG Font Editor:
+
+![Text -> SVG Font Editor menu](./text_svg-font-editor.png)
+
 ## Generating fonts
-Generating the fonts requires the following:
+### Requirements
 
 * [fontforge](https://fontforge.github.io/)
 * Python 3
