@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    enable-background="new"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
    id="svg1473"
    version="1.1"
    sodipodi:docname="picons-charts.svg"
@@ -21,29 +21,34 @@
      inkscape:showpageshadow="false"
      showborder="true"
      inkscape:window-maximized="0"
-     inkscape:window-y="126"
-     inkscape:window-x="588"
-     inkscape:window-height="1132"
-     inkscape:window-width="1970"
+     inkscape:window-y="38"
+     inkscape:window-x="0"
+     inkscape:window-height="916"
+     inkscape:window-width="1512"
      showguides="false"
      showgrid="true"
-     inkscape:current-layer="g1126"
+     inkscape:current-layer="g1"
      inkscape:document-units="px"
-     inkscape:cy="410.44182"
-     inkscape:cx="192.45597"
-     inkscape:zoom="0.25460369"
+     inkscape:cy="806.90099"
+     inkscape:cx="92.767359"
+     inkscape:zoom="0.28566082"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        spacingy="2"
        spacingx="2"
        id="grid931"
-       type="xygrid" />
+       type="xygrid"
+       originx="0"
+       originy="0"
+       units="px"
+       visible="true" />
     <sodipodi:guide
        inkscape:locked="false"
        id="guide1091"
@@ -220,7 +225,7 @@
          units-per-em="1024" />
       <missing-glyph
          id="missing-glyph2051"
-         d="M 180,844 V 204 h 640 v 640 z m 60,-60 H 760 V 264 H 240 Z" />
+         d="M 340,733.03711 A 165.90767,199.03667 0 0 1 196.32031,633.51758 165.90767,199.03667 0 0 1 179.49414,584 H 2.5625 C 1.1426946,584 0,582.85731 0,581.4375 v -94.875 C 0,485.14269 1.1426946,484 2.5625,484 H 179.49414 A 165.90767,199.03667 0 0 1 196.32031,434.48242 165.90767,199.03667 0 0 1 340,334.96289 V 404 h 97.4375 c 1.41981,0 2.5625,1.14269 2.5625,2.5625 v 34.875 C 440,442.85731 438.85731,444 437.4375,444 H 340 v 42.5625 94.875 V 624 h 97.4375 c 1.41981,0 2.5625,1.14269 2.5625,2.5625 v 34.875 C 440,662.85731 438.85731,664 437.4375,664 H 340 Z m 215.70312,0 c -1.41979,0 -2.5625,-1.14269 -2.5625,-2.5625 V 337.52539 c 0,-1.41981 1.14271,-2.5625 2.5625,-2.5625 H 660 c 59.27304,4.9e-4 114.04352,37.93718 143.67969,99.51953 7.46354,15.5184 13.1464,32.17475 16.89453,49.51758 H 997.4375 c 1.41981,0 2.5625,1.14269 2.5625,2.5625 v 94.875 c 0,1.41981 -1.14269,2.5625 -2.5625,2.5625 H 820.57422 c -3.74813,17.34283 -9.43099,33.99918 -16.89453,49.51758 C 774.04352,695.09993 719.27304,733.03662 660,733.03711 Z" />
       <glyph
          d="M 210,1024 V 664 h 580 v 360 z M 430,664 c 0,0 -6.4064,-22.80371 -20,-50 -13.59786,-27.19632 -28.94078,-54.70705 -88.46447,-54.70705 -83.3337,0 -135.01232,-46.46013 -157.12878,-90.69123 C 142.38946,424.56897 139.99601,384.38574 140,384 H 0 V 24 H 430 V 384 H 220 c 0.003,0.38545 -3.47272,22.99172 10,50 13.59789,27.19631 32.01112,54.11171 91.53553,54.11171 83.333,0 136.34801,51.65447 158.46447,95.88829 22.11577,44.2311 20,80 20,80 z m 70,0 c 0,0 -2.11574,-35.7689 20,-80 22.11647,-44.23382 75.13449,-95.88829 158.4675,-95.88829 59.52439,0 77.93461,-26.9154 91.5325,-54.11171 13.47256,-27.00828 9.9974,-49.61455 10,-50 H 570 V 24 h 430 V 384 H 860 c 0.004,0.38576 -2.38642,40.56897 -24.4037,84.60172 -22.11647,44.2311 -73.79507,90.69123 -157.1288,90.69123 -59.52367,0 -74.86962,27.51073 -88.4675,54.70705 -13.59358,27.19629 -20,50 -20,50 z"
          unicode="a"
@@ -526,6 +531,11 @@
          id="glyph2180"
          unicode="O"
          d="m 499.99995,1024 c 280,0 500.12075,-239.98526 500,-500 0.12075,-279.98526 -230,-500 -500,-500 C 342.376,24 209.05734,97.28458 120,204 l 230,160 c 39.22092,-36.29882 92.24013,-60.00038 149.99995,-60 121.65155,-8e-4 220.0008,98.26615 220,220 7.9e-4,121.73384 -98.34845,220.0008 -220,220 z" />
+      <glyph
+         glyph-name="api"
+         unicode="P"
+         id="glyph4"
+         d="M 340,804 C 280.7269,803.99951 169.6362,695.58241 140,634 132.56019,618.47728 123.72657,601.33871 120,584 H 2.5625 C 1.1426946,584 0,582.85731 0,581.4375 v -94.875 C 0,485.14269 1.1426946,484 2.5625,484 H 120 c 3.72657,-17.33871 12.56019,-34.47728 20,-50 29.6362,-61.58241 140.7269,-169.99951 200,-170 v 69.03711 h 158.71875 c 1.41981,0 2.5625,1.14269 2.5625,2.5625 V 441.4375 c 0,1.41981 -1.14269,2.5625 -2.5625,2.5625 H 340 v 42.5625 94.875 V 624 h 158.71875 c 1.41981,0 2.5625,1.14269 2.5625,2.5625 v 105.83789 c 0,1.41981 -1.14269,2.5625 -2.5625,2.5625 H 340 Z m 215.70312,0 c -1.41979,0 -2.5625,-1.14269 -2.5625,-2.5625 v -534.875 c 0,-1.41981 1.14271,-2.5625 2.5625,-2.5625 H 660 c 59.27304,4.9e-4 110.36383,108.41765 140,170 7.46354,15.5184 16.25187,32.65717 20,50 h 177.4375 c 1.41981,0 2.5625,1.14269 2.5625,2.5625 v 94.875 c 0,1.41981 -1.14269,2.5625 -2.5625,2.5625 H 820 c -3.74813,17.34283 -12.53646,34.4816 -20,50 -29.63617,61.58235 -80.72696,169.99951 -140,170 z" />
     </font>
     <filter
        id="filter878"
@@ -641,7 +651,7 @@
      inkscape:groupmode="layer"
      id="g1126"
      inkscape:label="Power Ring"
-     style="display:inline;filter:url(#filter878)">
+     style="display:none;filter:url(#filter878)">
     <path
        sodipodi:nodetypes="ccccccccc"
        inkscape:connector-curvature="0"
@@ -1238,6 +1248,17 @@
        id="rect1082"
        d="M 50,10 C 22.966622,10.003275 0.0029548,31.426347 0,60 v 880 c 0.00292,28.57364 22.966622,49.99687 50,50 h 640 c 27.03339,-0.003 49.99704,-21.42636 50,-50 V 660 c -27.74518,35.19112 -62.10448,60.94294 -100,90 V 890 H 100 V 110 h 540 v 30 H 740 V 60 C 739.997,31.426364 717.03339,10.003128 690,10 Z m 880,140 c -107.09154,1.40951 -212.20941,0.70879 -320,0 -80,10 -80,120 0,130 H 800 C 694.6699,470.60642 572.46529,673.24501 390,700 l 10,120 C 672.01693,772.54438 760.59057,552.70445 880,360 v 180 c 10,89.90697 100,89.90697 110.02701,0 L 990,230 c 2.59995,-39.83629 -15.63612,-79.81619 -60,-80 z M 640,290 v 210 c 36.84748,-57.67839 71.04482,-128.96576 100,-180 v -30 z"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#777777;fill-opacity:0.498039;fill-rule:nonzero;stroke:none;stroke-width:116.706;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="API"
+     id="g1"
+     inkscape:groupmode="layer">
+    <path
+       id="rect1"
+       style="fill:#050505;stroke:none;stroke-width:8.00126;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="m 340,220 c -59.2731,4.9e-4 -170.3638,108.41759 -200,170 -7.43981,15.52272 -16.27343,32.66129 -20,50 H 2.5625 C 1.1426946,440 0,441.14269 0,442.5625 v 94.875 C 0,538.85731 1.1426946,540 2.5625,540 H 120 c 3.72657,17.33871 12.56019,34.47728 20,50 29.6362,61.58241 140.7269,169.99951 200,170 v -69.03711 h 158.71875 c 1.41981,0 2.5625,-1.14269 2.5625,-2.5625 V 582.5625 c 0,-1.41981 -1.14269,-2.5625 -2.5625,-2.5625 H 340 V 537.4375 442.5625 400 h 158.71875 c 1.41981,0 2.5625,-1.14269 2.5625,-2.5625 V 291.59961 c 0,-1.41981 -1.14269,-2.5625 -2.5625,-2.5625 H 340 Z m 215.70312,0 c -1.41979,0 -2.5625,1.14269 -2.5625,2.5625 v 534.875 c 0,1.41981 1.14271,2.5625 2.5625,2.5625 H 660 c 59.27304,-4.9e-4 110.36383,-108.41765 140,-170 7.46354,-15.5184 16.25187,-32.65717 20,-50 h 177.4375 c 1.41981,0 2.5625,-1.14269 2.5625,-2.5625 v -94.875 C 1000,441.14269 998.85731,440 997.4375,440 H 820 C 816.25187,422.65717 807.46354,405.5184 800,390 770.36383,328.41765 719.27304,220.00049 660,220 Z"
+       sodipodi:nodetypes="cccssssccccssssccccssssccsssscccsssscccs" />
   </g>
   <g
      style="display:none"
